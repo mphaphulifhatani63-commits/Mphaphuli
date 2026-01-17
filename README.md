@@ -56,10 +56,14 @@ To: The love of my Life❤️
     }
 
     img {
-      width: 100%;
-      border-radius: 15px;
-      margin-bottom: 20px;
-      object-fit: cover;
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    display: block;
+        }
+
     }
 
     h1 {
